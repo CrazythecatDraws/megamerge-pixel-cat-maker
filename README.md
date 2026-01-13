@@ -1,6 +1,6 @@
 # Pixel Cat Maker
 
-Dollmaker that uses sprites from ClanGen.
+Dollmaker that uses sprites from MegaMerge ClanGen.
 
 ## Dev Requirements
 
